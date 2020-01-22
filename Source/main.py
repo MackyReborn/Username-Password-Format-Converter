@@ -14,5 +14,6 @@ while True:
     if usr == 'x':
         break
 	
-    writeToFile(convert(usr, psswrd))
-    print("Done\n")
+	
+writeToFile(convert(usr, psswrd))
+print("Done\n")
